@@ -1,0 +1,7 @@
+Nominal : Categories with no order
+Odinal : Categories in order
+Ratio : Numbers with a 0 point 
+interval : Numbers with no 0 point (like a scale)
+
+Discrete : only certain values
+Continuous : take any value

@@ -1,0 +1,13 @@
+U4 json + APIs
+json - Javascript object notation
+API - application programming itnerface
+    - a set of functions that programmers/organizations exposes for other programmers.organizations to use
+        - w/o needing to know how the functions are implimented
+            - eg. math module
+    
+    web API - an API that you access via the web
+            - use cases: get data, send data
+            - request data
+            
+    you need to make an http get request in order to access the api server
+        then the server will query its database, and return the requested data in the requested format

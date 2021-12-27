@@ -1,0 +1,69 @@
+8/31/21
+
+   What do Data Scientists do?
+      Collect Data
+      Clean/Prepare Data
+      EDA (Exploratory Data Analysis)
+         Data Visualizations
+         Data Mining (Patterns/Categories/Groups)
+      Statistical Inferences
+      Build/Refine Models
+         Machine Learning, etc...
+      Deploy/Document/Storytell
+
+      Repeat all these steps (Iterative)
+
+9/2/21
+
+   Why use Python for Data Science?
+      Easy to learn
+      free ,open source 
+      Support for the life cycle of software (Prototyping, development, testing, release, maintenance)
+      Many available library's.
+      Many supported GUI backends
+      LOTS of community support/development online
+
+   Datasets
+      Structured data can be structured into rows and columns 
+      
+      Each row is an "instance"
+         could also be called 'Example', 'record', or 'object'
+
+      Each column is an "attribute" (of the instance)
+         could also be called 'variables' or 'fields'
+
+      A "dataset" is a (sample) set of instances
+         from the 'universe of objects' (universe of instances) 
+
+
+   Git/Github
+
+      Version Control - A tool for tracking changes in files
+      Git is a tool for version control
+         Others exist, but git is the most popular
+      Github - a website for posting git repos
+         A repo (repository) is a folder under version control
+
+      Your machine's repo is considered as 'Local'
+
+      A commit is a named snapshot of file changes
+      You can push the local commits up to the cloud
+      As well as pull cloud commits to a new local repository (new machine)
+      
+   (The rest of class was about creating a helloworld github repo using vscode's source control)
+
+9/7/2021
+   / is floating point division
+      5 / 2 = 2.5
+   // is integer division
+      5 / 2 = 2
+   % is mod
+      5 % 2 = 1
+   ** is exponent
+      2 ** 5 = 32
+   
+   pow() also exists, it is in the math module
+   to use a module you need to import it
+   imports are at the top
+
+               See Practice\PythonBasicsFun\main.py
